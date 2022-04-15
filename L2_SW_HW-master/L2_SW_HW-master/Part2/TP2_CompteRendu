@@ -1,0 +1,13 @@
+1- la commande utilisé : mkdir test
+2- cat > BenhamoudiZamoumMourad
+3-git init BenhamoudiZamoumMourad
+4-git status test
+5- git add BenhamoudiZamoumMourad
+6-git commit -m "Compte Rendu TP2"
+7-compte crée
+8-git remote add origin
+9-git push -u origin master
+10-création d'un fichier readme
+11- git pull pour la mise a jour 
+12-git clone pour recuperer le fichier
+13- envoyé une invitation au prof pour avoir un accés aux fichiers

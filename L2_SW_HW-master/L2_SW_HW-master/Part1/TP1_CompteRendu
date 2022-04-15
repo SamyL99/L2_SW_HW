@@ -1,0 +1,33 @@
+1-ubuntu ouvert
+2-terminal démaré 
+3-le dossier sur git est récupéré avec la commande git clone https://github.com/khachicha/lab3.git
+4-dans le répertoire y'a 4 répertoires principales , et la taille des  fichier est 36ko
+5-oui la taille du répertoire sardar est correcte 
+6- taile de microsoft avec la commande du est 36ko et via la commande ls c'est la meme chose apr y'a ls ..-l et ls ...-s , la difference est 4ko et c'est la taille de répertoire sardar
+7- inode microsoft : 1979912 Microsoft
+8-fichiers cachés : .git et .lightbulb avec la commande : ls -a 
+9-avec la commande ls -t : fichiers en ordre : answering-machine.txt  sardar  Microsoft  README.md
+- les fichiers les plus petits vers les plus gros selon la taille , avec la commande ls -lrt on voit tout les détails donc le classement est : answering-machine.txt - Microsoft - Sardar- README.md
+11-la commande utilisé pour afficher le continu est : cat answering-machine.txt
+12-la commande est utilisé est : more answering-machine.txt
+13- la commande utilisé est : sudo apt install vim aprés pour lire le fichier avec vim on fait :  vim answering-machine.txt et y a vimtutor pour plus de détails et pour sortir :q!
+14-15-16- pour enregistrer les changements avec le lecteur vim , la commande utilisé est :w  . 
+17-la commande utilisé pour chercher un mot : /...
+18- pour les ocurrences on utilise la commande n
+19-la commande :  ?
+20-la commande : cd sardar aprés less sardar3.txt ou grep 20 sardar3.txt
+21-commandes utilisé : cd après cd lib3 après vim Microsoft aprés /trust 
+22- la commande utilisé : grep Money Microsoft
+23- ^
+24- mv .lightbulb lightbulb
+25- commande utilisé : cd sardar et pour vérifié : pwd
+26-la commande utilisé : mv sardar3.txt ..
+27-28- la commande utilisé : rm Microsoft
+29- la commande utilisé : tar cvf archive ~/lab3 ou tar cvf archive .
+30-la commande utilisé : ln -s lienSymbolique .
+31-oui facile à identifier , ils affichent avec une couleur différente ( couleur rouge)
+32- commande :rm sardar/sardar2.txt , remarque : taille réduite 
+33- commande : chmod u-w sardar1.txt
+34- commande : ls -l et chmode gp+w sardar1.txt
+35-commande : tar -czvf archive.tar.bz .
+36-
